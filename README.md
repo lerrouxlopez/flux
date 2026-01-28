@@ -62,7 +62,7 @@ Modes change the **experience and defaults**, not the underlying data integrity.
 
 ---
 
-## Repo layout (suggested)
+## Repo layout
 
 This repository is intended as a monorepo:
 
