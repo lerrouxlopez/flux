@@ -66,15 +66,15 @@ Modes change the **experience and defaults**, not the underlying data integrity.
 
 This repository is intended as a monorepo:
 
-/apps
-/mobile # React Native client
-/services
-/realtime # Phoenix Channels gateway
-/api # Rust Rocket API (auth, history, files, permissions)
-/workers # Rust consumers/producers for Kafka (message persistence, notifications)
-/infra
-/docker # local dev configs (Postgres, Kafka, LiveKit, coturn)
-/k8s # Kubernetes manifests (optional)
+- /apps
+- /mobile # React Native client
+- /services
+- /realtime # Phoenix Channels gateway
+- /api # Rust Rocket API (auth, history, files, permissions)
+- /workers # Rust consumers/producers for Kafka (message persistence, notifications)
+- /infra
+- /docker # local dev configs (Postgres, Kafka, LiveKit, coturn)
+- /k8s # Kubernetes manifests (optional)
 
 yaml
 Copy code
