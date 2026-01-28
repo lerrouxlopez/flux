@@ -123,3 +123,9 @@ yarn start
 yarn android
 # or:
 yarn ios
+
+---
+
+## Scaffold status (initial)
+
+This repo currently contains placeholder directories and READMEs to match the intended monorepo layout. The next steps will add minimal working scaffolds for each service and a local Docker Compose stack.
